@@ -1,0 +1,11 @@
+.pieStyles, 
+.buttonStyles {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btn,
+.card {
+    margin: 10px;
+}
