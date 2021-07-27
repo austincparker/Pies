@@ -1,6 +1,10 @@
 body {
     background-color: whitesmoke;
   }
+
+form {
+    margin: 20px;
+  }
   
   .pieStyles, 
   .buttonStyles {
